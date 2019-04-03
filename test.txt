@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 halwa gulab jamun
+=======
+halwa doodh peda
+>>>>>>> Stashed changes
